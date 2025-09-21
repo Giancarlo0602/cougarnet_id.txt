@@ -1,4 +1,2 @@
-cougarnet_id = "gaquijan"
-with open("cougarnet_id.txt", "w") as file:
-  file.write(cougarnet_id)
+gaquijan
   
